@@ -1,0 +1,12 @@
+{
+    "name": "decouple/log",
+    "description": "Hack file logging utility created for Decouple Framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Ewing",
+            "email": "drew@phenocode.com"
+        }
+    ],
+    "require": {}
+}
